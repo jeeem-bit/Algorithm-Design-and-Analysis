@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1694861518 source:d:\jia\sc2001\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1694861591 source:d:\jia\sc2001\hybrid.c
+	<stdio.h>
+	<stdlib.h>
+
+1695223044 source:c:\users\jiaen\downloads\sc2001\hybrid.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1695220068 source:c:\users\jiaen\downloads\sc2001\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699450321 source:c:\users\jiaen\desktop\computer engineering\y2s1\sc2001\lab3-knapsack\topdownknapsack\main.cpp
+	<iostream>
+	<vector>
+
